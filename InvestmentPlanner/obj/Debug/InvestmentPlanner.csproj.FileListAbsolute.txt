@@ -1,0 +1,7 @@
+C:\Users\naveent\Downloads\Projects\InvestmentPlanner\InvestmentPlanner\bin\Debug\InvestmentPlanner.exe.config
+C:\Users\naveent\Downloads\Projects\InvestmentPlanner\InvestmentPlanner\bin\Debug\InvestmentPlanner.exe
+C:\Users\naveent\Downloads\Projects\InvestmentPlanner\InvestmentPlanner\bin\Debug\InvestmentPlanner.pdb
+C:\Users\naveent\Downloads\Projects\InvestmentPlanner\InvestmentPlanner\obj\Debug\InvestmentPlanner.csproj.AssemblyReference.cache
+C:\Users\naveent\Downloads\Projects\InvestmentPlanner\InvestmentPlanner\obj\Debug\InvestmentPlanner.csproj.CoreCompileInputs.cache
+C:\Users\naveent\Downloads\Projects\InvestmentPlanner\InvestmentPlanner\obj\Debug\InvestmentPlanner.exe
+C:\Users\naveent\Downloads\Projects\InvestmentPlanner\InvestmentPlanner\obj\Debug\InvestmentPlanner.pdb

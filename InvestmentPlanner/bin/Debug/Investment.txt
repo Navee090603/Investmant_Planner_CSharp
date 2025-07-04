@@ -1,0 +1,24 @@
+Investment Type: SIP
+Invested: ₹120.00
+Maturity: ₹212.11
+Gain: ₹92.11
+Years: 1
+Rate: 102%
+Date: 7/4/2025 12:39:15 PM
+--------------------------
+Investment Type: SIP
+Invested: ₹144,000.00
+Maturity: ₹322,252.17
+Gain: ₹178,252.17
+Years: 12
+Rate: 12%
+Date: 7/4/2025 12:41:39 PM
+--------------------------
+Investment Type: SIP
+Invested: ₹144,000.00
+Maturity: ₹352,236.01
+Gain: ₹208,236.01
+Years: 12
+Rate: 13.2%
+Date: 7/4/2025 1:15:11 PM
+--------------------------
